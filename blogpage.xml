@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<!DOCTYPE blogpage SYSTEM "blogpage.dtd">
+
+<blogpage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="blogpage.xsd blogpage.xsd">
+
+    <header>Artificial intelligence</header>
+    <header-desc>Тут будуть розташовані останні новини штучного інтелекту!</header-desc>
+
+    <article>
+        <content>
+            <theme>У США представили безпілотний трактор зі штучним інтелектом</theme>
+            <description>
+             "Каліфорнійський стартап Monarch Tractor презентував свій перший "розумний" трактор MK-V, який може виконувати сільськогосподарські завдання без водія. Кожен MK-V використовує шість системних модулів Jetson Xavier NX, які дають змогу переміщатися по полях, використовуючи лише камери."
+            </description>
+        </content>
+        <inf-meta>
+            <inf>2 грудня 2022</inf>
+            <author>Oksana Khrystenko</author>
+            <keyWords>
+                <keyword>
+                    AI
+                </keyword>
+                <keyword>
+                    Tractor
+                </keyword>
+                <keyword>
+                    MK-V
+                </keyword>
+            </keyWords>
+            <apps>
+                <appfile>Tractor.jpg</appfile>
+                <applink>
+                    <applink-name>Info</applink-name>
+                    <value>https://www.ukrinform.ua/rubric-technology/3626524-u-ssa-predstavili-bezpilotnij-traktor-zi-stucnim-intelektom.html</value>
+                </applink>
+            </apps>
+        </inf-meta>
+        <comms>
+            <comment>
+                <commentText>Цікава інформація!</commentText>
+                <comment-author>Марія</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                     Коментар
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+            <comment>
+                <commentText>Вау! Цікаво чи з'являться вони в Україні?</commentText>
+                <comment-author>Тарас</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                      Коментар
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+            <comment>
+                <commentText>Дуже на це сподіваюсь!</commentText>
+                <comment-author>Oksana Khrystenko</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                      Автор
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+        </comms>
+
+    </article>
+
+
+    <article>
+        <content>
+            <theme>Штучний інтелект навчили передбачати ризик серцевого нападу й інсульту за рентгеном</theme>
+            <description>
+          Група американських дослідників розробила модель глибокого навчання на основі штучного інтелекту (ШІ), яка може передбачити ризик смерті від серцевого нападу або інсульту протягом 10-річного періоду лише за одним рентгенівським знімком грудної клітки.
+          Дослідники навчили модель шукати на рентгенівських зображеннях закономірності, пов’язані з атеросклерозом, основною причиною серцево-судинних захворювань.
+
+Ризик розраховується з використанням оцінки на основі таких змінних, як вік, стать, раса, артеріальний тиск, лікування гіпертонії, куріння, діабет 2 типу та аналізи крові.
+
+Статини рекомендуються пацієнтам, у яких 10-річний ризик становить 7,5% або вище.
+            </description>
+        </content>
+        <inf-meta>
+            <inf>29 листопада 2022</inf>
+            <author>Oksana Khrystenko</author>
+            <keyWords>
+                <keyword>
+                    AI
+                </keyword>
+                <keyword>
+                   US
+                </keyword>
+                <keyword>
+                    Diseases
+                </keyword>
+            </keyWords>
+            <apps>
+                <appfile>Diseases.jpg</appfile>
+                <applink>
+                    <applink-name>Info</applink-name>
+                    <value>https://www.ukrinform.ua/rubric-technology/3624230-stucnij-intelekt-navcili-peredbacati-rizik-sercevogo-napadu-j-insultu-za-rentgenom.html</value>
+                </applink>
+            </apps>
+        </inf-meta>
+        <comms>
+            <comment>
+                <commentText>Сподіваюсь це буде корисне відкриття!</commentText>
+                <comment-author>Ілля</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Коментар
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+        </comms>
+    </article>
+
+
+    <article>
+        <content>
+            <theme>Британія запускає програму підтримки штучного інтелекту для зменшення викидів вуглецю</theme>
+            <description>
+                 Уряд Великої Британії запускає інноваційну програму з підтримки використання штучного інтелекту (ШІ) для зменшення викидів вуглецю. “Запровадження цих технологій (на основі ШІ — ред.) дозволить нам заощадити витрати на електроенергію для підприємств і домогосподарств, створити висококваліфіковані робочі місця та залучити мільйони фунтів приватних інвестицій, одночасно підтримуючи цілі щодо нульових (викидів вуглецю — ред.)”, - заявив міністр науки Джодж Фріман.
+
+На програму AI for Decarbonisation Programme уряд виділяє 1,5 мільйона фунтів стерлінгів. Вона буде запущена в два етапи. Під час першого буде доступно до 500 000 фунтів стерлінгів для фінансування віртуального Центру з інновацій ШІ та декарбонізації до березня 2025 року.
+            </description>
+        </content>
+        <inf-meta>
+            <inf>22 листопада 2022</inf>
+            <author>Oksana Khrystenko</author>
+            <keyWords>
+                <keyword>
+                 AI
+                </keyword>
+                <keyword>
+                 UK
+                </keyword>
+                <keyword>
+                  Environment
+                </keyword>
+            </keyWords>
+            <apps>
+                <appfile>enviroment.jpg</appfile>
+                <applink>
+                    <applink-name>Info</applink-name>
+                    <value>https://www.ukrinform.ua/rubric-technology/3619746-britania-zapuskae-programu-pidtrimki-stucnogo-intelektu-dla-zmensenna-vikidiv-vuglecu.html</value>
+                </applink>
+            </apps>
+        </inf-meta>
+        <comms>	
+            <comment>
+                <commentText>Це буде дуже корисно для екології</commentText>
+                <comment-author>Максим</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                      Коментар
+                    </comment-tag>
+                </comment-tags>			
+            </comment>
+
+            <comment>
+                <commentText>Згодна з вами!</commentText>
+                <comment-author>Oksana Khrystenko</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                      Автор
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+        </comms>
+
+    </article>
+
+
+    <article>
+        <content>
+            <theme>Штучний інтелект створив картини із тваринами, які можуть зникнути через війну в Україні</theme>
+            <description>
+            Серію робіт в рамках міжнародної кампанії #StopEcocideUkraine представила організація UAnimals за участі Дарії Урвачової. На картинах, створених штучним інтелектом, можна побачити зубра і рись, бурого ведмедя, чорну лелеку та інших тварин, що можуть зникнути в Україні через російську агресію.
+            </description>
+        </content>
+        <inf-meta>
+            <inf>18 листопада 2022</inf>
+            <author>Oksana Khrystenko</author>
+            <keyWords>
+                <keyword>
+                 AI
+                </keyword>
+                <keyword>
+                  Animals
+                </keyword>
+                <keyword>
+                  Ukraine
+                </keyword>
+            </keyWords>
+            <apps>
+                <appfile>Animals.jpg</appfile>
+                <applink>
+                    <applink-name>Info</applink-name>
+                    <value>https://www.ukrinform.ua/rubric-technology/3617358-stucnij-intelekt-stvoriv-kartini-iz-tvarinami-aki-mozut-zniknuti-cerez-vijnu-v-ukraini.html</value>
+                </applink>
+            </apps>
+        </inf-meta>
+        <comms>
+            <comment>
+                <commentText>Картини звісно красиві, але ситуація жахлива</commentText>
+                <comment-author>Свят</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Коментар
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+            <comment>
+                <commentText>Від таких новин стає сумно</commentText>
+                <comment-author>Наталі</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Коментар
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+            <comment>
+                <commentText>Дуже сумно</commentText>
+                <comment-author>Oksana Khrystenko</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Автор
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+        </comms>
+
+    </article>
+
+ <article>
+        <content>
+            <theme>Київ потрапив до однієї з номінацій нагороди Smart City Awards</theme>
+            <description>
+                «Взяв участь у відкритті виставки Smart City Expo, де цього року Київ вперше представлений серед учасників. Столиця України потрапила до однієї з номінацій престижної нагороди Smart City Awards», - зазначив Кличко. 
+                За його словами, в умовах війни, коли постало питання виживання, коли ворог стояв біля столиці, киянам потрібно було захистити себе та своїх близьких; знайти, де купити необхідні продукти та ліки; мати інформацію про те, які сервіси доступні.
+		     </description>
+        </content>
+        <inf-meta>
+            <inf>15 листопада 2022</inf>
+            <author>Oksana Khrystenko</author>
+            <keyWords>
+                <keyword>
+                  AI
+                </keyword>
+                <keyword>
+                  Kyiv
+                </keyword>
+                <keyword>
+                  Awards
+                </keyword>
+            </keyWords>
+            <apps>
+                <appfile>Award.jpg</appfile>
+                <applink>
+                    <applink-name>Info</applink-name>
+                    <value>https://www.ukrinform.ua/rubric-kyiv/3614858-kiiv-potrapiv-do-odniei-z-nominacij-nagorodi-smart-city-awards.html</value>
+                </applink>
+            </apps>
+        </inf-meta>
+        <comms>
+            <comment>
+                <commentText>Дуже за нас рада!!</commentText>
+                <comment-author>Валерія</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Коментар
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+            <comment>
+                <commentText>Вони на це заслуговують</commentText>
+                <comment-author>Вікторія</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Коментар
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+        
+        </comms>
+
+    </article>
+ <article>
+        <content>
+            <theme>Учасники дослідження не змогли відрізнити, який вірш створено штучним інтелектом, а який людиною</theme>
+            <description>
+                За словами дослідників, результати експерименту свідчать про психологічний ефект під назвою «відраза до алгоритму», коли люди думають, що якісні роботи створені людьми. У той час дослідження показало тенденцію учасників помилково вважати, що хайку, яке було складене штучним інтелектом й отримало високі бали, насправді ж були створені людьми.
+
+Хайку — жанр японської ліричної поезії, трирядковий неримований вірш на основі першої пів строфи танка, що складається з 17 складів (5-7-5) і відрізняється простотою поетичної мови, свободою викладу.
+
+Як повідомляв Укрінформ, дослідницька група Кіотського університету (Японія) показала робота-гуманоїда зі штучним інтелектом, який розуміє людський гумор.
+                  </description>
+        </content>
+        <inf-meta>
+            <inf>6 листопада 2022</inf>
+            <author>Oksana Khrystenko</author>
+            <keyWords>
+                <keyword>
+                  AI
+                </keyword>
+                <keyword>
+                  Japan
+                </keyword>
+                <keyword>
+                  Poem
+                </keyword>
+            </keyWords>
+            <apps>
+                <appfile>Poem.jpg</appfile>
+                <applink>
+                    <applink-name>Info</applink-name>
+                    <value>https://www.ukrinform.ua/rubric-technology/3608791-ucasniki-doslidzenna-ne-zmogli-vidrizniti-akij-virs-stvoreno-stucnim-intelektom-a-akij-ludinou.html</value>
+                </applink>
+            </apps>
+        </inf-meta>
+        <comms>
+            <comment>
+                <commentText>Лякає, наскільки гарно вони нас імітують</commentText>
+                <comment-author>Владислав</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Коментар
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+         
+            <comment>
+                <commentText>І воно все ще стає краще...</commentText>
+                <comment-author>Oksana Khrystenko</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Автор
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+        </comms>
+
+    </article>
+
+    <article>
+        <content>
+            <theme>Honda розробляє технологію автономного керування автомобілем зі штучним інтелектом</theme>
+            <description>
+				Як зазначається, в цій системі застосовуються камери, що допомагають транспортному засобу краще розпізнавати навколишню ситуацію, зокрема інші автомобілі та пішоходів. За інформацією компанії, це приведе до зниження виробничих витрат, оскільки ця система не потребуватиме сенсорів або високоточних карт.
+
+Це останній за часом крок компанії для впровадження технології автономного управління з комерційною метою.
+
+Honda також планує розробляти системи зі штучним інтелектом, щоб вони могли розуміти мову та жести людини, полегшуючи пасажирам подачу команд транспортному засобу.
+
+Honda почне тестування системи в Японії в листопаді й прагнутиме впровадити технологію на практиці до 2030 року.	
+                      </description>
+        </content>
+        <inf-meta>
+            <inf>3 листопада 2022</inf>
+            <author>Oksana Khrystenko</author>
+            <keyWords>
+                <keyword>
+                   AI
+                </keyword>
+                <keyword>
+                    Car
+                </keyword>
+            </keyWords>
+            <apps>
+                <appfile>Car.jpg</appfile>
+                <applink>
+                    <applink-name>Info</applink-name>
+                    <value>https://www.ukrinform.ua/rubric-technology/3606901-honda-rozroblae-tehnologiu-avtonomnogo-keruvanna-avtomobilem-zi-stucnim-intelektom.html</value>
+                </applink>
+            </apps>
+        </inf-meta>
+        <comms>
+            <comment>
+                <commentText>Хочу собі таку машину!</commentText>
+                <comment-author>Антон</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Коментар
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+            <comment>
+                <commentText>Наскільки скоро вони з'являться на ринку?</commentText>
+                <comment-author>Микита</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Коментар
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+            <comment>
+                <commentText>Цього ще точно не відомо</commentText>
+                <comment-author>Oksana Khrystenko</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Автор
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+        </comms>
+
+    </article>
+
+
+    <article>
+        <content>
+            <theme>Штучний інтелект створив 100 тисяч фотографій людей, яких не існує</theme>
+            <description>	 Світлини облич, зроблені штучним інтелектом, уже використовуються в ігровій індустрії, як орієнтири для художників або твори мистецтва невзаємозамінних токенів (NFT).
+
+«Існує багато припущень і упереджень щодо контенту, створеного штучним інтелектом. Багато людей вважають це виключно deepfake, дезінформацією та пов’язаними шкідливими речами. Але ті ж самі люди дивляться фільми з комп'ютерними технологіями, які можуть зробити воскресіння померлих акторів і ходять на концерти ABBA в 2022 році», – заявляє Артем Кан з Generated Photos.  </description>
+        </content>
+        <inf-meta>
+            <inf>25 жовтня 2022</inf>
+            <author>Oksana Khrystenko</author>
+            <keyWords>
+                <keyword>
+                    AI
+                </keyword>
+                <keyword>
+                    Faces
+                </keyword>
+            </keyWords>
+            <apps>
+                <appfile>Faces.jpg</appfile>
+                <applink>
+                    <applink-name>Info</applink-name>
+                    <value>https://www.ukrinform.ua/rubric-technology/3600898-stucnij-intelekt-stvoriv-100-tisac-fotografij-ludej-akih-ne-isnue.html</value>
+                </applink>
+            </apps>
+        </inf-meta>
+        <comms>
+            <comment>
+                <commentText>Одна з фотографій схожа на мене!</commentText>
+                <comment-author>Oksana Khrystenko</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Автор
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+
+        </comms>
+
+    </article>
+
+
+    <article>
+        <content>
+            <theme>Розуміє гумор і сміється: в Японії показали робота зі штучним інтелектом</theme>
+            <description>
+                Дослідники додали штучний інтелект до вже існуючого робота-гуманоїда, здатного вести прості розмови, щоб він міг аналізувати сміх.
+
+Робот налаштовується на людський голос, і природно сміється відповідно до гучності та змісту розмови.   </description>
+        </content>
+        <inf-meta>
+            <inf>29 вересня 2022</inf>
+            <author>Oksana Khrystenko</author>
+            <keyWords>
+                <keyword>
+                    AI
+                </keyword>
+                <keyword>
+                    Laught
+                </keyword>
+                <keyword>
+                    Japan
+                </keyword>
+            </keyWords>
+            <apps>
+                <appfile>Laught.jpg</appfile>
+                <applink>
+                    <applink-name>Info</applink-name>
+                    <value>https://www.ukrinform.ua/rubric-technology/3581836-rozumie-gumor-i-smietsa-v-aponii-pokazali-robota-zi-stucnim-intelektom.html</value>
+                </applink>
+            </apps>
+        </inf-meta>
+        <comms>
+            <comment>
+                <commentText>Рад що їх все ще можна відрізнити від людей</commentText>
+                <comment-author>Олександр</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Коментар
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+            <comment>
+                <commentText>Я також так думаю</commentText>
+                <comment-author>Оксана</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Коментар
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+        </comms>
+    </article>
+
+
+    <article>
+        <content>
+            <theme>В Японії відкрили гарячу лінію зі штучним інтелектом для виявлення деменції</theme>
+            <description>
+                Заснована на штучному інтелекті послуга телекомунікаційної компанії NTT Communications пропонує тим, хто зателефонував, відповісти на кілька основних запитань.
+
+Система оцінює тембр голосу, швидкість відповіді, а також сотню інших факторів визначення, чи страждає людина деменцією. Відповідь може бути надано приблизно протягом хвилини.
+
+Компанія стверджує, що точність цієї послуги становить 93%.  </description>
+        </content>
+        <inf-meta>
+            <inf>23 вересня 2022</inf>
+            <author>Oksana Khrystenko</author>
+            <keyWords>
+                <keyword>
+                    AI
+                </keyword>
+                <keyword>
+                    Japan
+                </keyword>
+                <keyword>
+                    Hotline
+                </keyword>
+            </keyWords>
+            <apps>
+                <appfile>hotline.jpg</appfile>
+                <applink>
+                    <applink-name>Info</applink-name>
+                    <value>https://www.ukrinform.ua/rubric-technology/3578330-v-aponii-vidkrili-garacu-liniu-zi-stucnim-intelektom-dla-viavlenna-demencii.html</value>
+                </applink>
+            </apps>
+        </inf-meta>
+        <comms>
+            <comment>
+                <commentText>Чому це завжди відбувається в Японії???</commentText>
+                <comment-author>Макс</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Коментар
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+            <comment>
+                <commentText>Ось така це неймовірна країна</commentText>
+                <comment-author>Oksana Khrystenko</comment-author>
+                <comment-tags>
+                    <comment-tag>
+                        Автор
+                    </comment-tag>
+                </comment-tags>
+            </comment>
+        </comms>
+
+    </article>
+
+
+   
+
+
+</blogpage>

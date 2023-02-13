@@ -1,0 +1,30 @@
+
+<!ELEMENT header (#PCDATA)>
+<!ELEMENT header-desc (#PCDATA)>
+
+<!ELEMENT article (content,inf-meta,comms)>
+
+<!ELEMENT content (theme,description)>
+<!ELEMENT theme (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+
+<!ELEMENT inf-meta (inf,author,keyWords,apps)>
+<!ELEMENT comms (comment)+>
+
+<!ELEMENT comment (commentText,comment-author,comment-tags)>
+
+<!ELEMENT commentText (#PCDATA)>
+<!ELEMENT comment-author (#PCDATA)>
+<!ELEMENT comment-tags (comment-tag+)>
+<!ELEMENT comment-tag (#PCDATA)>
+<!ELEMENT inf (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT keyWords (keyword+)>
+<!ELEMENT apps (appfile,applink)>
+
+<!ELEMENT keyword (#PCDATA)>
+<!ELEMENT appfile (#PCDATA)>
+<!ELEMENT applink (applink-name,value)>
+
+<!ELEMENT applink-name (#PCDATA)>
+<!ELEMENT value (#PCDATA)>

@@ -1,0 +1,76 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="blogpage">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="header"/>
+        <xs:element name="header-desc"/>
+        <xs:element name="article" maxOccurs="unbounded" minOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="content">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="theme"/>
+                    <xs:element type="xs:string" name="description"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="inf-meta">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="inf"/>
+                    <xs:element type="xs:string" name="author"/>
+                    <xs:element name="keyWords">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="keyword" maxOccurs="unbounded" minOccurs="1"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="apps">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="appfile"/>
+                          <xs:element name="applink" maxOccurs="unbounded" minOccurs="1">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="applink-name"/>
+                                <xs:element type="xs:string" name="value"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="comms">
+                <xs:complexType mixed="true">
+                  <xs:sequence>
+                    <xs:element name="comment" maxOccurs="unbounded" minOccurs="1">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="commentText"/>
+                          <xs:element type="xs:string" name="comment-author"/>
+                          <xs:element name="comment-tags">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="comment-tag" maxOccurs="unbounded" minOccurs="1"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
